@@ -1,0 +1,7 @@
+name: rmya
+channels:
+  - defaults
+dependencies:
+  - pip:
+    - roboticstoolbox-python
+prefix: C:\Users\SUIT\anaconda3\envs\rmya
